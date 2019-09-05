@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="image_title">Image Title</string>
+    <string name="quantity_of_likes">Quantity of Likes</string>
+</resources>
